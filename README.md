@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NewsApp ReactJS
 
 <b>Source Code :</b>
@@ -6,7 +5,6 @@
 <a href="https://github.com/princu09/newsapp-reactjs/archive/refs/heads/main.zip"> <img src="https://img.shields.io/badge/Download-386938188?style=flat&logo=github&color=black">
 </a>
 
-<br>
 
 ##### 📫 Connect with me here:<br />
  <p>
@@ -29,6 +27,3 @@ Screenshots :
 
 * News Page
 ![Home Page](screenshot/NewsApp.png)
-=======
-
->>>>>>> 6206850554cb699aa86e175f98e56900db165801
