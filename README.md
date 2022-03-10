@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NewsApp ReactJS
 
 <b>Source Code :</b>
@@ -28,3 +29,6 @@ Screenshots :
 
 * News Page
 ![Home Page](screenshot/NewsApp.png)
+=======
+
+>>>>>>> 6206850554cb699aa86e175f98e56900db165801
